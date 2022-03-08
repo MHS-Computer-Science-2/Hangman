@@ -19,10 +19,7 @@ int main()
         }
     }
 
-    if (found == true) {
-        cout << "replacements were made" << endl;
-    }
-    else if (found == false) {
+    if (found == false) {
         cout << "no replacements were made" << endl;
     }
 
